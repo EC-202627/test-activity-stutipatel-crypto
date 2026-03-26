@@ -11,4 +11,4 @@ for i in range(T):
     if X>=2000:
         print("Yes")
     else: 
-            print("NO")
+            print("No")
